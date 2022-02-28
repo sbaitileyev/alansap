@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    background-color: cornsilk;
+}
+header h1{
+    background-color:burlywood;
+    text-align: center;
+    margin:10px;
+}
+.img1{
+    width:300px;
+    border-radius:3pc;
+}
+nav h2{
+    color:darkorange;
+}
+nav{
+    border:5px burlywood dashed;
+    margin:10px;
+    padding:10px;
+    background-color: lavenderblush;
+}
+nav img{
+    width:150px;
+}
+footer h2{
+ text-align: center;
+ background-color: burlywood ;
+}
+footer{
+    border-left: 8px dotted burlywood;
+    border-right: 8px dotted burlywood;
+    border-bottom: 5px solid burlywood;
+    border-top: 5px solid burlywood;
+    background-color: lavenderblush;
+}
+foot h1{
+    text-align: center;
+    text-decoration: lightyellow;
+    color:darkorange;
+}
